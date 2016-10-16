@@ -1,9 +1,0 @@
-Building Zorbacoin
-
-See doc/readme-qt.rst for instructions on building Zorbacoin QT,
-the intended-for-end-users, nice-graphical-interface, reference
-implementation of Zorbacoin.
-
-See doc/build-*.txt for instructions on building zorbacoind,
-the intended-for-services, no-graphical-interface, reference
-implementation of Zorbacoin.
